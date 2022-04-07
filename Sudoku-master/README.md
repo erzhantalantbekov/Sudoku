@@ -1,16 +1,8 @@
 # Sudoku
-Puzzle game <i>Sudoku</i> for Android created with Unity3D. <br/>
-**Unity3D version:** 2018.1.0f2 <br/>
-**Programming language:** C# .NET 4.6 <br/>
-**Visual Studio: 2017** Community <br/>
-
+Puzzle game 
 ## Description
 The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes", "blocks", "regions", or "sub-squares") contains all of the digits from 1 to 9.
 [Wikipedia](https://en.wikipedia.org/wiki/Sudoku)
-
-## Features
-* Serialize/deserialize levels from JSON files
-* Async/await methods instead of coroutines
 
 ## TODO
 * Add textures
